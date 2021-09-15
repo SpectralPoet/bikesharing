@@ -4,7 +4,7 @@ mock analysis of transit information for des moines IA to determine viable imple
 
 
     
-Here is the Tableau Story, first of all: https://public.tableau.com/app/profile/spectralpoet/viz/challenge_16316689518480/FinalPresentation
+Here is the Tableau Story, first of all: https://public.tableau.com/app/profile/spectralpoet/viz/challenge_16316689518480/FinalPresentation (for some reason it starts and the end and you will need to click back to see it in the intended sequence)
 
 ## Overview of the analysis: Explain the purpose of this analysis.
 The purpose of this analysis is to analyze CitiBike bikesharing data from New York city with an eye to the business model's viability in Des Moines, Iowa  
